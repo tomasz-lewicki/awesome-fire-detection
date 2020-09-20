@@ -29,7 +29,8 @@
 | AR Drone Fire Detection | AR Drone | https://github.com/Sanderi44/AR-Drone-Fire-Detection.git |
 
 
-# Research Projectts
+# Research Projects
 
 Community-Empowered Air Quality Monitoring System, CMU RI, https://arxiv.org/pdf/1804.03293.pdf
+
 Project RISE, CMU RI, https://smoke.createlab.org/faq.html
