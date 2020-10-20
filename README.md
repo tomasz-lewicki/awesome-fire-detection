@@ -13,6 +13,10 @@
 | Zhang et al.    |       | Deep CNN detection (R-CNN)                             | Synthetic   | https://www.sciencedirect.com/science/article/pii/S1877705817362574 |
 |                 |       |                                                        |             |                                                                     |
 
+https://github.com/ckyrkou/AIDER
+https://github.com/ckyrkou/EmergencyNet
+
+
 # Datasets
 
 | Dataset                   | Samples | Annotations | Link                                                                            |
